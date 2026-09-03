@@ -29,6 +29,8 @@ public class exc6 {
             System.out.println("Fora do intervalo");
         }
 
+        leia.close();
+
     }
 
 

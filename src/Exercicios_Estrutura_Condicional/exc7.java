@@ -33,6 +33,9 @@ public class exc7 {
             System.out.println("Tente novamente");
         }
 
+
+        leia.close();
+
     }
 
 }
