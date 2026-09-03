@@ -1,9 +1,11 @@
 package Exercicios_Estrutura_Condicional;
 import java.util.Scanner;
+import java.util.Locale;
 public class exc6 {
 
     public static void main(String[]args){
 
+        Locale.setDefault(Locale.US);
         Scanner leia = new Scanner(System.in);
 
         double numero;
