@@ -9,16 +9,9 @@ public class entradadedados {
 
         Scanner leia = new Scanner(System.in);
 
-        String nomeCompleto;
-        String nome;
-        String comp1;
-        String comp2;
-        String comp3;
-        int numeroInt;
-        int idade;
-        double numeroDouble;
-        double numeroDouble2;
-        double peso;
+        String nomeCompleto,nome,comp1,comp2,comp3;
+        int numeroInt,idade;
+        double numeroDouble,numeroDouble2,peso;
         char inicial;
 
 
