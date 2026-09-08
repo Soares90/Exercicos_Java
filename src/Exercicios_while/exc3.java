@@ -33,7 +33,7 @@ public class exc3 {
                 diesel++;
                 System.out.printf("%n%n%n%n%n");
             }
-            else {
+            else if (escolha != 4) {
                 System.out.printf("%n%n%n%n%n");
                 System.out.println("Tente novamente...");
             }
@@ -41,6 +41,7 @@ public class exc3 {
         }
 
         if(escolha == 4){
+            System.out.printf("%n%n%n%n%n");
             System.out.println("Muito Obrigado!");
             System.out.println("Alcool:"+alcool);
             System.out.println("Gasolina:"+gasolina);
