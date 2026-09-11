@@ -1,4 +1,4 @@
-package Exercicios_Estrutura_Condicional;
+package exercicios_Estrutura_Condicional;
 import java.util.Locale;
 import java.util.Scanner;
 public class exc7 {
